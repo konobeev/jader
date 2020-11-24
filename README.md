@@ -1,3 +1,3 @@
-# jader ![alt text](https://travis-ci.org/konobeev/jader.svg?branch=main "Travis CI build")
+# jader [![Build Status](https://travis-ci.org/konobeev/jader.svg?branch=main)](https://travis-ci.org/konobeev/jader)
 
 
