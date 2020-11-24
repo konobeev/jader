@@ -5,7 +5,7 @@ cache:
   - "$HOME/.m2"
 jdk: openjdk11
 before_install:
-- chmod +x mvnw
+  - chmod +x mvnw
 deploy:
   provider: heroku
   app: jader-app
